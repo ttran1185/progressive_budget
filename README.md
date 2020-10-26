@@ -8,7 +8,7 @@
   * [Usage information](#usage)
   * [License](#license)
   * [Test](#test)
-  * [Contributors](#contributors)
+
   * [Questions](#questions)
   
   ## Title
@@ -23,8 +23,7 @@
   MIT
   ## Test
   local host
-  ## Contributors
-  
+![Demo](Budget-Tracker.gif)
   ## Questions
   ttran1185@gmail.com
 
