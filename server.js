@@ -15,7 +15,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect("mongodb+srv://ttran-admin:<password>@cluster0.ybd2j.mongodb.net/<dbname>?retryWrites=true&w=majority", {
+mongoose.connect("mongodb://localhost/budget", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
