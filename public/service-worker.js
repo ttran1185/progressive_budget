@@ -1,14 +1,12 @@
-var FILES_TO_CACHE = [
+const FILES_TO_CACHE = [
     '/',
-    '/styles.css',
+    '/db.js',
     '/index.js',
     '/index.html',
+    '/styles.css',
+    '/manifest.webmanifest',
     '/icons/icon-192x192.png',
     '/icons/icon-512x512.png',
-    '/manifest.json',
-    '/db.js',
-    './favicon.ico'
-    
   
   ];
   
